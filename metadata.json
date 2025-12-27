@@ -1,0 +1,7 @@
+{
+  "name": "Antes do Esquecimento: Arquivo Cultural Africano",
+  "description": "Um guardião digital de memórias, tradições e sabedoria da cultura africana. A memória vive na palavra.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
